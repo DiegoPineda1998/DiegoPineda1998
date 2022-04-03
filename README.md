@@ -5,7 +5,7 @@
 I am currently working with the Stack MERN, developming apps with said architecture 💻☕. 
 
 ### My Skills
-
+[
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />]
@@ -26,7 +26,7 @@ I am currently working with the Stack MERN, developming apps with said architect
 [<img align="left" alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
-[<img align="left" alt="medium" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />]  
+[<img align="left" alt="medium" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />]  ]
 
 ### Contact
 
