@@ -72,8 +72,8 @@ I am currently working with the Stack MERN, developming apps with said architect
 
 <hr>
 
-<img align="left" alt="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofprdev" />
 <img align="left" alt="medium" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofprdev" />
 <img align="left" alt="medium" src="https://github-readme-stats.vercel.app/api?username=diegofprdev" />
+<img align="left" alt="medium" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegofprdev" />
 <img align="left" alt="medium" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{diegofprdev}1212%2Fhit-counter" />
 
