@@ -66,7 +66,7 @@ I am currently working with the Stack MERN, developming apps with said architect
 
 <hr>
 
-### Contact
+### Contact 📩
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
 
