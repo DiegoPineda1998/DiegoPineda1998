@@ -70,5 +70,7 @@ I am currently working with the Stack MERN, developming apps with said architect
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /><br>
 
+<hr>
+
 <img align="left" alt="medium" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{diegofprdev}1212%2Fhit-counter" />
 
