@@ -2,7 +2,9 @@
 
 👓 Thanks for following my work! 🔥
 
-I am currently working with the Stack MERN, developming apps with said architecture 💻☕. 
+I am currently working with the Stack MERN, developming apps with said architecture 💻☕.
+
+<hr>
 
 ### My Skills 🤖
 
