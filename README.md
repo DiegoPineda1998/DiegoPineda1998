@@ -4,7 +4,7 @@
 
 I am currently working with the Stack MERN, developming apps with said architecture 💻☕. 
 
-#### My Skills
+### My Skills
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />]
@@ -28,7 +28,7 @@ I am currently working with the Stack MERN, developming apps with said architect
 [<img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />]  
 
-#### Contact
+### Contact
 
 [<img align="left" alt="medium" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />]
 [<img align="left" alt="medium" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />]
