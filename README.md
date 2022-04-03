@@ -72,7 +72,7 @@ I am currently working with the Stack MERN, developming apps with said architect
 
 <hr>
 
-<img align="left" alt="medium" src="https://github-readme-stats.vercel.app/api?username=diegofprdev" />
+<img align="left" alt="medium" src="https://github-readme-stats.vercel.app/api?username=diegofprdev" /><br>
 <img align="left" alt="medium" src="https://github-readme-streak-stats.herokuapp.com/?user=diegofprdev" />
 
 
